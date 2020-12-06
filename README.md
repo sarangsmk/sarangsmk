@@ -1,6 +1,5 @@
 ### Hi there 👋
+#### Nice to see you onboard :rocket::flying_saucer:
 
-https://img.shields.io/static/v1?label=<LABEL>&message=Test&color=green
+[![smk's github stats](https://github-readme-stats.vercel.app/api?username=sarangsmk)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png">
