@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="www.smktech.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][(http://smktech.ml)]
+[!<img align="left" alt="www.smktech.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][http://smktech.ml]
 [<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />][https://www.instagram.com/sarang_smk]
 [<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][https://www.linkedin.com/in/smk-tech]
 [<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][https://twitter.com/sarangsmk]
