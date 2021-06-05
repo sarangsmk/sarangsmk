@@ -12,6 +12,6 @@
 [<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][https://twitter.com/sarangsmk]
 [<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][https://youtube.com/c/smk_tech]
 
-<br>
+
 [![smk's github stats](https://github-readme-stats.vercel.app/api?username=sarangsmk)](https://github.com/anuraghazra/github-readme-stats)
 
