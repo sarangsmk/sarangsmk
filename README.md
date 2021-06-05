@@ -17,8 +17,8 @@
 
 
 
-[website] : http://smktech.ml
-[instagram] : https://www.instagram.com/sarang_smk
-[linkedin] : https://www.linkedin.com/in/smk-tech
-[twitter] : https://twitter.com/sarangsmk
-[youtube] : https://youtube.com/c/smk_tech
+[website]: http://smktech.ml
+[instagram]: https://www.instagram.com/sarang_smk
+[linkedin]: https://www.linkedin.com/in/smk-tech
+[twitter]: https://twitter.com/sarangsmk
+[youtube]: https://youtube.com/c/smk_tech
