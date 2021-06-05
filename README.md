@@ -6,12 +6,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="www.smktech.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][s]
-[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />][https://www.instagram.com/sarang_smk]
-[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][https://www.linkedin.com/in/smk-tech]
-[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][https://twitter.com/sarangsmk]
-[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][https://youtube.com/c/smk_tech]
+[<img align="left" alt="www.smktech.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="www.smktech.ml" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][youtube]
 
 
 [![smk's github stats](https://github-readme-stats.vercel.app/api?username=sarangsmk)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[website] : http://smktech.ml
+[instagram] : https://www.instagram.com/sarang_smk
+[linkedin] : https://www.linkedin.com/in/smk-tech
+[twitter] : https://twitter.com/sarangsmk
+[youtube] : https://youtube.com/c/smk_tech
