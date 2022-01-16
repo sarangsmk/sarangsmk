@@ -1,8 +1,8 @@
 ### Hi there 👋 Nice to see you onboard :rocket::flying_saucer:
 #### I'm a Mobile and Web Dev
 <hr>
-:book: I'm currently learning everything :smile:<br>
-:man_technologist: 2021's Goals:Contribute more to Open Source projects<br>
+:book: I'm currently learning everything that gives me the sparkling feeling :smile:<br>
+:man_technologist: 2022's Goals:Contribute more to Open Source projects<br>
 :sparkler: Love to Experiment on Tech
 
 ### Connect with me:
