@@ -39,7 +39,7 @@
 
 
 
-[website]: http://smktech.ml
+[website]: http://smktech.ml](https://sarangmktech.blogspot.com
 [instagram]: https://www.instagram.com/sarang_smk
 [linkedin]: https://www.linkedin.com/in/smk-tech
 [twitter]: https://twitter.com/sarangsmk
