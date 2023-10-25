@@ -46,4 +46,7 @@
 [youtube]: https://youtube.com/c/smk_tech
 
 
+
+[![An image of @smk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smk)](https://holopin.io/@smk)
+
 ![](https://komarev.com/ghpvc/?username=sarangsmk&style=flat-square)
