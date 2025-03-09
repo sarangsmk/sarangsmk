@@ -2,7 +2,7 @@
 #### I'm a Mobile and Web Dev
 <hr>
 :book: I'm currently learning everything that gives me the sparkling feeling :smile:<br>
-:man_technologist: 2024's Goals:Contribute more to Open Source projects<br>
+:man_technologist: 2025's Goals:Contribute more to Open Source projects<br>
 :sparkler: Love to Experiment on Tech
 
 ### Connect with me:
